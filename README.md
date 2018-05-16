@@ -1,6 +1,6 @@
 # Deployment of a Vapor2 App to the AWS EC2
 
-加入第一篇，推坑用swift寫後端(剛發展也很多坑)，熟AWS跟後端的大大可以幫我改進，有空再寫Vapor後端的架構Orz
+加入第一篇，推坑用swift寫後端(剛發展也很多坑)，這是其中社群發展最快之一的框架Vapor，熟AWS跟後端的大大可以幫我改進，我拿來做我App的後端框架，有空再寫Vapor的架構Orz
 
 ## 環境
 ---
